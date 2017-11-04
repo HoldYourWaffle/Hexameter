@@ -22,6 +22,9 @@ diving into the details.
 [![][codecov img]][codecov]
 [![][license img]][license]
 
+## Fork
+This fork adds an array of vertex-indices (as of [eeb9b](https://github.com/HoldYourWaffle/Hexameter/commit/eeb9b84c0b3841e2f973a1682d64a4350b8f2876)) that doesn't really make any sense without the [libGDX](https://github.com/libgdx/libgdx) game library.
+
 ## Getting started
 
 This library uses [Amit's guide to hexagonal grids][amitlink]. The coordinate system used by this library is the Cubic coordinate system.
